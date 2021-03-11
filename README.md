@@ -1,5 +1,5 @@
 # Social App : Looks
-Social Media App for creating your fashion style and share it wth others...
+Social Media App for creating your fashion style and share it wth others both on IOS and Android...
 
 
 <p align="center">
